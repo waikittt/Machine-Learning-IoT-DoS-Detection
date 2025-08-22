@@ -15,10 +15,10 @@ This project produces the following outputs, all included in this repository:
 - 📊 **Evaluation Results**: A PDF (Collected Results.pdf) containing screenshots of key performance metrics and results. 
 
 ## How to Run
-- The Python notebook (dissertation-project-code.ipynb) was developed in Kaggle Notebook and is best run in the Kaggle environment.
-- Upload the notebook and required files to Kaggle Notebooks
- for execution.
-- Make sure the CICIoT2023 dataset is available in your Kaggle environment before running the notebook.
+> The Python notebook (dissertation-project-code.ipynb) was developed in Kaggle Notebook and should be run in the Kaggle environment.
+- Download the Python notebook `dissertation-project-code.ipynb`.
+- Upload the notebook to [Kaggle](https://www.kaggle.com/work).
+- Open the notebook and click `Run All`.
 
 ## Key Highlights
 - **Dataset**: CICIoT2023
